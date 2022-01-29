@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1561344493 source:f:\royal blue hotel\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+
